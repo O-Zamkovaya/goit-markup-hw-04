@@ -537,6 +537,7 @@ a {
 
 .footer {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-item {
