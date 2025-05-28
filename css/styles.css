@@ -472,6 +472,7 @@ a {
 .footer .container {
   display: flex;
   align-items: baseline;
+  margin-right: 120px;
 }
 
 .footer-text {
@@ -484,7 +485,6 @@ a {
 }
 
 .footer-box {
-  margin-right: 120px;
 }
 
 .box-text {
